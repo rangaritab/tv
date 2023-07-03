@@ -70,9 +70,9 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Noticias", ESTRELLA TV USA
 https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Colombia", RCN EXTRA CO
+#EXTINF:-1 group-title="01_Colombia", RCN EXTRA CO
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Colombia", RCN Mas+ CO
+#EXTINF:-1 group-title="01_Colombia", RCN Mas+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Argentina", TELEFE AR
 https://cdn2.eco.cdn.moderntv.eu/econocable/stream/TELEFE/40-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DTELEFE_stream_te&_cdn_session=932321571&_cdn_timestamp=1688435981&_cdn_token=eb657393320d61ba109ce5db6d52a3ce8017e904
@@ -448,7 +448,7 @@ https://v3.playerlatino.live/stream/m3u8/364
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/369
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Colombia",Caracol
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/caracol.png" group-title="01_Colombia",Caracol
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1487,13 +1487,13 @@ https://v3.playerlatino.live/stream/m3u8/306
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/334
 
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/rcn.png" group-title="Colombia",RCN
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/rcn.png" group-title="01_Colombia",RCN
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/390
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/rcnnovelas.png" group-title="Colombia",RCN Novelas
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/rcnnovelas.png" group-title="01_Colombia",RCN Novelas
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1715,7 +1715,7 @@ https://v3.playerlatino.live/stream/m3u8/182
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/91
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/telemedellin.png" group-title="Colombia",Telemedellin
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/telemedellin.png" group-title="01_Colombia",Telemedellin
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1805,7 +1805,7 @@ https://v3.playerlatino.live/stream/m3u8/509
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/95
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/trece_colombia.png" group-title="Colombia",Trece
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/trece_01_Colombia.png" group-title="01_Colombia",Trece
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -1895,7 +1895,7 @@ https://v3.playerlatino.live/stream/m3u8/100
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/413
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/play.png" group-title="Colombia",Uno
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/play.png" group-title="01_Colombia",Uno
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
