@@ -1000,12 +1000,6 @@ https://v3.playerlatino.live/stream/m3u8/42
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/749
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Entretenimiento",FXM
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/43
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Mexico",Gala TV
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
