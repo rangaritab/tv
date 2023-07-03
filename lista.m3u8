@@ -27,8 +27,6 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", EURO NEWS
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Bics", ATV+ PE
-https://linear-258.frequency.stream/dist/vix/258/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", TN23
 https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", VIVO PLAY
@@ -85,7 +83,6 @@ https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 https://dish.akamaized.net/Content/HLS_HLS_CLR/Live/channel(mvs)/variant.m3u8
 #EXTINF:-1  group-title="Bics Extra", MARIA VISION
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Bics Extra", ESTRELLA TV USA
@@ -209,7 +206,6 @@ http://181.189.243.254:8000/play/a0ou/index.m3u8
 http://181.189.243.254:8000/play/a0ov/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | HBO Pop
 http://45.190.13.50:8003/play/a02z/index.m3u8
-
 #EXTINF:-1 group-title="Bics Extra", USA | Cartoon Network
 http://45.5.117.182:8000/play/a0en/index.m3u8
 #EXTINF:-1 group-title="Bics Extra", USA | Cartoonito
@@ -226,7 +222,6 @@ https://cdn2.eco.cdn.moderntv.eu/econocable/stream/NICKJR/40-hls/live-media.m3u8
 ******************************* DEPORTES **********************************************
 #EXTINF:-1  group-title="Bics Extra", TUDN MX
 http://190.61.102.67:31589/play/a08j/index.m3u8
-
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS MX
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 2 MX
@@ -235,7 +230,6 @@ https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/in
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
 #EXTINF:-1  group-title="Bics Extra", FOX SPORTS 3 MX
 https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd 
-
 #EXTINF:-1  group-title="Bics Extra", Fox Sports Premium
 http://45.90.105.74:25461/JW2WBOndemand/d8rQEH2h4E/56034
 #EXTINF:-1  group-title="Bics Extra",  Fox Sports 2 USA
@@ -362,7 +356,6 @@ http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=5
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=577273
 #EXTINF:-1  group-title="CABLE KINGS IPTV", A&E
 http://goldiptv.pro:80/play/live.php?mac=00:1A:79:77:DC:F6&extension=ts&stream=469345
-
 #EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Root Sports Network
 http://176.57.50.167:25461/421664/055944/77461
 #EXTINF:-1  group-title="CABLE KINGS SUPERSPORTS", Sky Sport Racing
@@ -542,7 +535,6 @@ https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.s
 https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.next.eastern.us.m3u8
 #EXTINF:-1 group-title="App2tv", Showtime Family Zone
 https://tv4.live/api/stream/timmyluper007@gmail.com/480165/livetv.epg/showtime.family.zone.eastern.us.m3u8
-
 #EXTINF:-1 group-title="App2tv", Showtime
 https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/showtime.eastern.us.m3u8
 #EXTINF:-1 group-title="App2tv", Showtime 2
