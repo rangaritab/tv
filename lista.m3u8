@@ -754,7 +754,7 @@ https://v3.playerlatino.live/stream/m3u8/26
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/28
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura",Discovery World
+#EXTINF:-1, tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura",Discovery World HD
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
