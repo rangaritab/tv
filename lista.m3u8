@@ -1522,36 +1522,6 @@ https://v3.playerlatino.live/stream/m3u8/306
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/334
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 1
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/847
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 10
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/856
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 11
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/858
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 12
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/859
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 13
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/860
 
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/rcn.png" group-title="Colombia",RCN
 #EXTVLCOPT--http-reconnect=true
