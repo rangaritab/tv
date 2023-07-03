@@ -1565,12 +1565,6 @@ https://v3.playerlatino.live/stream/m3u8/48
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/150
-#EXTINF:-1, tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="Entretenimiento",Star Fun
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/49
 #EXTINF:-1, tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Entretenimiento",Star Hits
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
