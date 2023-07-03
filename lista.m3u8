@@ -538,12 +538,6 @@ https://v3.playerlatino.live/stream/m3u8/700
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/695
-#EXTINF:-1, tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="Entretenimiento",Cine Comedia 2
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/696
 #EXTINF:-1, tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" group-title="Entretenimiento",Cine Ficcion/Fantasia 1
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
