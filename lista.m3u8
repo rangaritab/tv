@@ -1925,3 +1925,7 @@ https://v3.playerlatino.live/stream/m3u8/881
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/276
+#EXTINF:-1, group-title="01_Colombia", CARACOL NACIONAL HD 
+http://flash.shortgod.com/wadsa/tv1.php?id=673
+#EXTINF:-1, group-title="01_Colombia", RCN FHD 
+http://flash.shortgod.com/wadsa/tv1.php?id=674
