@@ -1925,5 +1925,5 @@ https://v3.playerlatino.live/stream/m3u8/881
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/276
-#EXTINF:-1, group-title="COLOMBIA", Caracol HD
+#EXTINF:-1, group-title="01_Colombia", Caracol HD
 http://servpremium.net:25461/Claudio3/xjlDqj60ef/4160
