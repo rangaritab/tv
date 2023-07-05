@@ -1,6 +1,14 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://goo.gl/UNk2yx" group-title="PREMIUM IPTV61" ,Caracol HD
-http://iptv61w.com:25461/live/moises123/moises123/4325.ts
-#EXTINF:-1 tvg-logo="https://goo.gl/UNk2yx" group-title="PREMIUM IPTV61" ,Caracol.
-http://iptv61w.com:25461/live/moises123/moises123/3677.ts
+#EXTINF:-1,VENUS
+http://visual.dyndns.tv:8100/live/mini2/mini2/4.ts
+#EXTINF:-1,SEXTREME
+http://visual.dyndns.tv:8100/live/mini2/mini2/48.ts
+#EXTINF:-1,PLAYBOY
+http://visual.dyndns.tv:8100/live/mini2/mini2/59.ts
+#EXTINF:-1,PENTHOUSE HD
+http://visual.dyndns.tv:8100/live/mini2/mini2/61.ts
+#EXTINF:-1,HOT
+http://visual.dyndns.tv:8100/live/mini2/mini2/76.ts
+#EXTINF:-1,HOT HD
+http://visual.dyndns.tv:8100/live/mini2/mini2/490.ts
