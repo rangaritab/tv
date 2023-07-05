@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1,VENUS
-http://visual.dyndns.tv:8100/live/mini2/mini2/4.ts
-#EXTINF:-1,SEXTREME
-http://visual.dyndns.tv:8100/live/mini2/mini2/48.ts
-#EXTINF:-1,PLAYBOY
-http://visual.dyndns.tv:8100/live/mini2/mini2/59.ts
-#EXTINF:-1,PENTHOUSE HD
-http://visual.dyndns.tv:8100/live/mini2/mini2/61.ts
-#EXTINF:-1,HOT
-http://visual.dyndns.tv:8100/live/mini2/mini2/76.ts
-#EXTINF:-1,HOT HD
-http://visual.dyndns.tv:8100/live/mini2/mini2/490.ts
+#EXTINF:-1,CARACOL HD
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
+#EXTINF:-1,RCN HD (Bogotá Colombia)
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
