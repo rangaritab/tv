@@ -104,7 +104,7 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/290
 
-#EXTINF:-1, group-title="Colombia",RCN
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_RCN_%282019-Dec%29.svg/revision/latest?cb=20210426191756&path-prefix=es" group-title="Colombia",RCN
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
