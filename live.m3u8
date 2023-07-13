@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTINF:0, History [SD]
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(04)/index.m3u8
-#EXTINF:0, History [HD]
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(05)/index.m3u8
-#EXTINF:0, History [FHD]
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(06)/index.m3u8
-#EXTINF:0, H2
-http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(04)/index.m3u8
+#EXTINF:-1,RO: HISTORY CHANNEL
+http://televiziune.live/documentare/live1/a2e0f744c28929973e4365b7fdfa0865/10.ts
+
+#EXTINF:-1,RO: DISCOVERY CHANNEL
+http://televiziune.live/documentare/live1/a2e0f744c28929973e4365b7fdfa0865/12.ts
