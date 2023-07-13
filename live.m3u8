@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4jXnIFR.png" group-title="CANALES LISTA PRIVADA",HISTORY CHANNEL 1080P CALIDAD LISTA PRIVADA
-http://tvpremiumhd.club/lista-gratuita/team/g1105.ts
+#EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol" tvg-country="CO" tvg-language="Spanish" tvg-logo="" group-title="",Caracol (720p) 
+https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8 
