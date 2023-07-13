@@ -1,6 +1,3 @@
 #EXTM3U
-#EXTINF:-1,RO: HISTORY CHANNEL
-http://televiziune.live/documentare/live1/a2e0f744c28929973e4365b7fdfa0865/10.ts
-
-#EXTINF:-1,RO: DISCOVERY CHANNEL
-http://televiziune.live/documentare/live1/a2e0f744c28929973e4365b7fdfa0865/12.ts
+#EXTINF:-1 tvg-logo="HISTORY.jpg" group-title="MUNDO Y CULTURA",HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
