@@ -35,13 +35,6 @@ https://v3.playerlatino.live/stream/m3u8/633
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/22
 
-#EXTINF:-1, group-title="Cultura",Discovery2
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/639
-
 #EXTINF:-1, group-title="Cultura",Investigation Discovery
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
