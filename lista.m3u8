@@ -1,5 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="Mexico", LAS ESTRELLAS MX
+
+#EXTINF:-1 group-title="Mexico", LAS ESTRELLAS
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 group-title="Mexico", Las Estrellas MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
@@ -8,10 +13,10 @@ https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index.m3u8
 https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento", GOLDEN PLUS
+#EXTINF:-1 group-title="Entretenimiento", Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias", NOTICIERO UNIVISION
+#EXTINF:-1 group-title="Noticias", Noticiero Univision
 https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Noticias", EURO NEWS
@@ -20,62 +25,55 @@ https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Entretenimiento", TN23
 https://linear-259.frequency.stream/dist/vix/259/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias", VIVO PLAY
+#EXTINF:-1 group-title="Noticias", Vivo Play
 https://linear-260.frequency.stream/dist/vix/260/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias", NUESTRA VISION
+#EXTINF:-1 group-title="Noticias", Nuestra Vision
 https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias", N+ MEDIA
+#EXTINF:-1 group-title="Noticias", N+ Media
 https://channel04-notusa.akamaized.net/hls/live/2029754-b/event01/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", N+ 
 https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index.m3u8
 
-#EXTINF:-1 group-title="Noticias", FORO TV
+#EXTINF:-1 group-title="Noticias", Foro TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 group-title="Noticias", WEATHER CHANNEL ESPAÑOL
+#EXTINF:-1 group-title="Noticias", Weather Channel
 https://linear-431.frequency.stream/431/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes", TIGO SPORTS
+#EXTINF:-1 group-title="Deportes", Tigo Sport
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Deportes", REAL MADRID TV
+#EXTINF:-1 group-title="Deportes", Real Madrid TV
 https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
-
-#EXTINF:-1 group-title="Mexico", LAS ESTRELLAS
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 group-title="Noticias", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 group-title="Noticias", MILENIO
+#EXTINF:-1 group-title="Noticias", Milenio
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 
-#EXTINF:-1 group-title="Noticias", ONCE
+#EXTINF:-1 group-title="Noticias", Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias", TELEMAX
+#EXTINF:-1 group-title="Noticias", Telemax
 https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/.m3u8
 
-#EXTINF:-1 group-title="Noticias", MULTIMEDIOS MTY
+#EXTINF:-1 group-title="Noticias", Multimedios MTY
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 group-title="Noticias", MULTIMEDIOS LAGUNA
+#EXTINF:-1 group-title="Noticias", Multimedios Laguna
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
-#EXTINF:-1 group-title="Noticias", MULTIMEDIOS GDL
+#EXTINF:-1 group-title="Noticias", Multimedios GDL
 https://mdstrm.com/live-stream-playlist/5c54d38ca392a5119bb0aa0d.m3u8
 
-#EXTINF:-1 group-title="Religion", MARIA VISION
-https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
-
-#EXTINF:-1 group-title="Entretenimiento", CANAL 57 USA
+#EXTINF:-1 group-title="Entretenimiento", Canal 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title="Noticias", ESTRELLA TV USA
+#EXTINF:-1 group-title="Noticias", Estrella TV USA
 https://estrellatv-plex.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Colombia", RCN XTRA CO
@@ -84,19 +82,19 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Colombia", RCN MAS+ CO
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Argentina", CINCO TV AR
+#EXTINF:-1 group-title="Argentina", Cinco TV AR
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 group-title="Noticias", TELEMUNDO USA-CA
+#EXTINF:-1 group-title="Noticias", Telemundo USA-CA
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
-#EXTINF:-1 group-title="Entretenimiento", ATRES CINE
+#EXTINF:-1 group-title="Entretenimiento", Atres Cine
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento", TNT NOVELAS 
+#EXTINF:-1 group-title="Entretenimiento", TNT Novelas
 http://181.189.243.254:8000/play/a0pj/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento", WARNER CHANNEL
+#EXTINF:-1 group-title="Entretenimiento", Warner Channel
 http://181.189.243.254:8000/play/a0tk/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento", UNIVERSAL CRIME
