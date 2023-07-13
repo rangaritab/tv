@@ -91,14 +91,14 @@ https://v3.playerlatino.live/stream/m3u8/76
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/77
 
-#EXTINF:-1, group-title="Colombia",CARACOL
+#EXTINF:-1, group-title="Colombia", Caracol
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/391
 
-#EXTINF:-1, group-title="Colombia",CARACOL INT
+#EXTINF:-1, group-title="Colombia",Caracol Internacional
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -164,13 +164,13 @@ http://181.189.243.254:8000/play/a0pj/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento", Warner Channel
 http://181.189.243.254:8000/play/a0tk/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento", UNIVERSAL CRIME
+#EXTINF:-1 group-title="Entretenimiento", Universal Crime
 http://181.189.243.254:8000/play/a0t0/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento", UNIVERSAL CINEMA
+#EXTINF:-1 group-title="Entretenimiento", Universal Cinema
 http://181.189.243.254:8000/play/a0v2/index.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento", UNIVERSAL REALITY
+#EXTINF:-1 group-title="Entretenimiento", Universal Reality
 http://181.189.243.254:8000/play/a0sz/index.m3u8
 
 #EXTINF:-1, group-title="Entretenimiento", A&E
@@ -187,49 +187,49 @@ https://v3.playerlatino.live/stream/m3u8/1
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/183
 
-#EXTINF:-1, group-title="Entretenimiento", CLIC
+#EXTINF:-1, group-title="Entretenimiento", Clic
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/165
 
-#EXTINF:-1, group-title="Entretenimiento", CINE FICCION
+#EXTINF:-1, group-title="Entretenimiento", Cine Ficcion
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/709
 
-#EXTINF:-1, group-title="Entretenimiento", CINE INFANTILES
+#EXTINF:-1, group-title="Entretenimiento", Cine Infantiles
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/687
 
-#EXTINF:-1, group-title="Entretenimiento",CINE LATINO
+#EXTINF:-1, group-title="Entretenimiento",Cine Latino
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/295
 
-#EXTINF:-1, group-title="Entretenimiento",CINE ROMANCE
+#EXTINF:-1, group-title="Entretenimiento",Cine Romance
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/689
 
-#EXTINF:-1, group-title="Entretenimiento",CINE TERROR
+#EXTINF:-1, group-title="Entretenimiento",Cine Terror
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/693
 
-#EXTINF:-1, group-title="Entretenimiento", CINE ZOMBIS
+#EXTINF:-1, group-title="Entretenimiento", Cine Zombis
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -285,14 +285,14 @@ https://v3.playerlatino.live/stream/m3u8/189
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/152
 
-#EXTINF:-1, group-title="Entretenimiento",MTV
+#EXTINF:-1, group-title="Entretenimiento", MTV
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/69
 
-#EXTINF:-1, group-title="Entretenimiento",Paramount
+#EXTINF:-1, group-title="Entretenimiento", Paramount
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
@@ -390,7 +390,7 @@ https://v3.playerlatino.live/stream/m3u8/179
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/90
 
-#EXTINF:-1 group-title="Mexico", LAS ESTRELLAS
+#EXTINF:-1 group-title="Mexico", Las Estrellas
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
@@ -406,7 +406,7 @@ https://channel09-notusa.akamaized.net/hls/live/2094418/event01/index_4.m3u8
 #EXTINF:-1 group-title="Noticias", Noticiero Univision
 https://linear-306.frequency.stream/dist/localnow/306/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="Noticias", EURO NEWS
+#EXTINF:-1 group-title="Noticias", Euro News
 https://linear-255.frequency.stream/dist/vix/255/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="Noticias", Vivo Play
