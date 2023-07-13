@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY CHANNEL HD **" tvg-logo="http://img.elitehdbr.com/logos/history.png" group-title="DOCUMENTARIOS",HISTORY CHANNEL HD **
-http://185.181.102.3:8081/live/history/chunks.m3u8?nimblesessionid=9187230&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDE3IDE6MzE6MzIgQU0maGFzaF92YWx1ZT1mODJQY3Y4cW0wNVo5dEgyeHhwMjJnPT0mdmFsaWRtaW51dGVzPTEw
-#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD **" tvg-logo="http://i.imgur.com/jhiD9Wc.png" group-title="DOCUMENTARIOS",H2 HD **
-http://159.203.66.6/h2/tracks-v1a1/index.m3u8?pxAuth=EruCn4I6eCVT1nXXGqdOWRmIOW8OUeFT
-#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD **" tvg-logo="http://img.elitehdbr.com/logos/discoverchannel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD **
-http://185.181.102.2:8081/live/master04/chunks.m3u8?nimblesessionid=2409974&wmsAuthSign=c2VydmVyX3RpbWU9MTAvOC8yMDE3IDE6MzY6MjMgQU0maGFzaF92YWx1ZT0xckhrL3dpM0dpb1NJMVJwTzZtZ1R3PT0mdmFsaWRtaW51dGVzPTEw
+#EXTINF:0, History [SD]
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(04)/index.m3u8
+#EXTINF:0, History [HD]
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(05)/index.m3u8
+#EXTINF:0, History [FHD]
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(HISTORY_CHANNEL_HD)/Stream(06)/index.m3u8
+#EXTINF:0, H2
+http://tstv.lcdn.claro.net.co/Content/hls/Live/Channel(H2)/Stream(04)/index.m3u8
