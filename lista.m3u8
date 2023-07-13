@@ -348,6 +348,13 @@ https://v3.playerlatino.live/stream/m3u8/684
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/84
 
+#EXTINF:-1, group-title="Entretenimiento",Universal
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+https://v3.playerlatino.live/stream/m3u8/137
+
 #EXTINF:-1, group-title="Entretenimiento",SyFy
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
@@ -750,132 +757,55 @@ https://v3.playerlatino.live/stream/m3u8/509
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/698
 
-#EXTINF:-1, group-title="Deportes",TVC Deportes
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/837
-#EXTINF:-1, group-title="España",TVE
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/195
 #EXTINF:-1, group-title="Deportes",Tyc Sports
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/274
-#EXTINF:-1, group-title="Deportes",UFC Network
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/97
+
 #EXTINF:-1, group-title="Entretenimiento",Unicable
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/98
-#EXTINF:-1, group-title="Entretenimiento",Universal
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/137
-#EXTINF:-1, group-title="Entretenimiento",Univision
+
+#EXTINF:-1, group-title="Entretenimiento",Univision USA
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/99
-#EXTINF:-1, group-title="Deportes",Univisión Deportes
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/373
-#EXTINF:-1, group-title="Deportes",Univisión TDN
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/100
-#EXTINF:-1, group-title="Entretenimiento",Univision Tlnovelas
+
+#EXTINF:-1, group-title="Entretenimiento", Univision Tlnovelas
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/413
+
 #EXTINF:-1, group-title="Colombia",Uno
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/775
-#EXTINF:-1, group-title="Musica",VH1
+
+#EXTINF:-1, group-title="Musica", MTV Hits
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/101
-#EXTINF:-1, group-title="Musica",Video Rola
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/359
-#EXTINF:-1, group-title="Musica",Videos: 1Music
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/433
-#EXTINF:-1, group-title="Musica",Videos: Company Radio TV
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/435
-#EXTINF:-1, group-title="Musica",Videos: Dream TV
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/439
-#EXTINF:-1, group-title="Musica",Virgin TV
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/315
-#EXTINF:-1, group-title="Entretenimiento",Warner Channel
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/102
-#EXTINF:-1, group-title="Entretenimiento",Warner Channel Sur
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/759
-#EXTINF:-1, group-title="Deportes",Win Sports
+
+#EXTINF:-1, group-title="Deportes",Win Sports+
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/292
-#EXTINF:-1, group-title="Deportes",Win Sports +
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=https://v3.playerlatino.live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-https://v3.playerlatino.live/stream/m3u8/881
+
 #EXTINF:-1, group-title="Deportes",WWE Network
 #EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-referrer=https://v3.playerlatino.live
