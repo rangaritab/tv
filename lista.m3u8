@@ -111,10 +111,10 @@ https://v3.playerlatino.live/stream/m3u8/290
 #EXTVLCOPT:network-caching=1000
 https://v3.playerlatino.live/stream/m3u8/390
 
-#EXTINF:-1 group-title="Colombia", RCN XTRA CO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png" group-title="Colombia", RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Colombia", RCN MAS+ CO
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-mas_1.jpg" group-title="Colombia", RCN Mas+
 https://linear-286.frequency.stream/dist/vix/286/hls/master/playlist.m3u8
 
 #EXTINF:-1, group-title="Colombia",Trece
