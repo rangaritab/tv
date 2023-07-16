@@ -11,7 +11,7 @@ http://149.202.202.127:8000/live/melissa1/melissa1/2199.ts
 http://149.202.202.127:8000/live/melissa7/melissa7/2204.ts
 
 #EXTINF:-1,01 | CITY TV | HD 
-http://67.53.122.248/live-4/live/live.m3u8
+https://fa723fc1b171.us-west-2.playback.live-video.net/api/video/v1/us-west-2.196233775518.channel.oKrxpoDnDptp.m3u8
 #EXTINF:-1,01 | CANAL UNO | HD 
 http://flash.shortgod.com/wadsa/tv1.php?id=650 
 #EXTINF:-1,02 | CARACOL | SD 
