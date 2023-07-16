@@ -9,3 +9,20 @@ http://149.202.202.127:8000/live/melissa1/melissa1/2198.ts
 http://149.202.202.127:8000/live/melissa1/melissa1/2199.ts
 #EXTINF:-1,NatGeo (sd)
 http://149.202.202.127:8000/live/melissa7/melissa7/2204.ts
+
+#EXTINF:-1,01 | CANAL UNO | HD 
+http://flash.shortgod.com/wadsa/tv1.php?id=650 
+#EXTINF:-1,02 | CARACOL | SD 
+http://flash.shortgod.com/wadsa/tv1.php?id=651 
+#EXTINF:-1,03 | CARACOL ENC | HD 
+http://flash.shortgod.com/wadsa/tv1.php?id=652 
+#EXTINF:-1,06 | RCN INT | HD 
+http://flash.shortgod.com/wadsa/tv1.php?id=655 
+#EXTINF:-1,19 | CARACOL INT | HD 
+http://flash.shortgod.com/wadsa/tv1.php?id=668 
+#EXTINF:-1,25 | CARACOL NACIONAL | HD 
+http://flash.shortgod.com/wadsa/tv1.php?id=673 
+#EXTINF:-1,28 | RCN | FHD 
+http://flash.shortgod.com/wadsa/tv1.php?id=674 
+#EXTINF:-1,31 | RCN | HD 
+http://flash.shortgod.com/wadsa/tv1.php?id=677
