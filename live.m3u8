@@ -1,3 +1,6 @@
 #EXTM3U
-#EXTINF:-1, group-title="Cultura",H2
-https://v3.playerlatino.live/stream/m3u8/61
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIkQGeZ.png" group-title="Canales Colombianos", RCN | HD
+https://rcnhd.cdn.net.co/live01/rcnhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIkQGeZ.png" group-title="Canales Colombianos", RCN 2 | HD
+https://rcnhd.cdn.net.co/live02/rcnhd2_720p.m3u8
