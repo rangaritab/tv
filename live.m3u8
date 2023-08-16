@@ -1,5 +1,3 @@
 #EXTM3U
-#EXTINF:-1,01 | CITY TV | HD 
-https://www.citytv.com/video/live
-#EXTINF:-1 tvg-id="" tvg-name="04 | DISCOVERY CHANNEL FHD" tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/discovery_channel-mediano.png" group-title="CULTURE",04 | DISCOVERY CHANNEL FHD
-http://tv4.codextv.com:8000/eduardoac/W3SAi2tFLa/152895
+#EXTINF:-1, 01 | CITY TV | HD 
+https://cdn.chatytvgratis.net/caracoltabs.php?v=4
