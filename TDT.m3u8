@@ -102,8 +102,5 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
 #EXTINF:-1,Telecaribe
 http://cdns840stu1010.multistream.net/telecaribelive/amlst:live/master.m3u8 
 
-#EXTINF:-1,RCN Reproductor de audio 
-
-#EXTINF:-1,RCN KIDS Reproductor de audio 
-
-#EXTINF:-1,LA VALLENATA http://7309.live.streamtheworld.com/VALLENATA_PRISAAAC?uuid=cc007c83-ba7c-45ba-a609-e3353fd5f334
+#EXTINF:-1,LA VALLENATA
+http://7309.live.streamtheworld.com/VALLENATA_PRISAAAC?uuid=cc007c83-ba7c-45ba-a609-e3353fd5f334
