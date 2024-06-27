@@ -22,7 +22,7 @@ https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Canal_RCN_%282019-Dec%29.svg/revision/latest?cb=20210426191756&path-prefix=es" group-title="Colombia",RCN
-http://envivo.canalrcn.com/envivo/canalrcn/playlist.m3u8
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/123.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png" group-title="Colombia", RCN Xtra
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
